@@ -1,2 +1,1 @@
-# spring-telegram-bot
-A config files for spring telegram bot.
+# Spring Telegram bot initial codes to use everytime
